@@ -1,2 +1,2 @@
 # nag
-Numerical Algorithms Group Externship working with mathematical optimization
+Numerical Algorithms Externship working with mathematical optimization
